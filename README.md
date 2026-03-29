@@ -1,5 +1,4 @@
-# LAPD-Crime-Dataframe-Data-Pipeline
-# LA Crime Data Enhancement Pipeline 🚔
+# LAPD Crime Dataframe Data Pipeline 🚔
 
 This project transforms raw LAPD crime data (2020-2024) into an analytically ready dataset. 
 
